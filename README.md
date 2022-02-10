@@ -31,7 +31,7 @@
 
 :man_technologist: About Me :
 
-I am a 🔍 Sr. Technical Recruiter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
+I am a Sr. Technical Recruiter 🔍 from Spain living and working in Berlin.
 
   - 🥘 Currently working as a Sr. Technical Recruiter @Just Eat Takeaway in Berlin.
   - 📖 Improving my Python and Data Analytical skills.
