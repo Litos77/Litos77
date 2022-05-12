@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=Litos77&style=flat-square&color=blue" alt=""/>
   
   <h1>
-    hey there
+    Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -33,8 +33,8 @@
 
 I am a Sr. Technical Recruiter 🔍 from Spain living and working in Berlin.
 
-  - 🥘 Currently working as a Sr. Technical Recruiter @Just Eat Takeaway in Berlin.
-  - 📖 Improving my Python and Data Analytical skills.
+  - 🥘 Currently working as a Sr. Technical Recruiter @Just Eat Takeaway in Vienna (Austria) hiring Tech Talents across EMEA.
+  - 📖 Improving my Software Development skills while having fun!
   - 🧑‍💻Passionate about technologies, gadgets and learning bits of programming languages.
 
 ---
