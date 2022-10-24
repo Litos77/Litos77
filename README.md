@@ -33,7 +33,7 @@
 
 I am a Sr. Technical Recruiter 🔍 from Spain living and working in Berlin.
 
-  - 🥘 Currently working as a Sr. Technical Recruiter @Just Eat Takeaway in Vienna (Austria) hiring Tech Talents across EMEA.
+  - 🥘 Currently working as a Sr. Technical Recruiter @Just Eat Takeaway in Berlin (Germany) hiring Tech Talents across EMEA.
   - 📖 Improving my Software Development skills while having fun!
   - 🧑‍💻Passionate about technologies, gadgets and learning bits of programming languages.
 
